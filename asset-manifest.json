@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.d777e045.css",
+    "main.js": "/home/static/js/main.d4f27401.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/cv.png": "/home/static/media/cv.35d99cc2d8492fcc30c2.png",
+    "static/media/violence.jpg": "/home/static/media/violence.b859054a0b3c9007634e.jpg",
+    "static/media/USC.png": "/home/static/media/USC.e439e4ee5794eb29dcb7.png",
+    "static/media/MITWPU.png": "/home/static/media/MITWPU.5440a42a3a54401bcc58.png",
+    "static/media/my_img.jpg": "/home/static/media/my_img.4ca98c7c6a6009e0fe58.jpg",
+    "static/media/NER.jpg": "/home/static/media/NER.a029157a4fb446b4ef69.jpg",
+    "static/media/seo.jpg": "/home/static/media/seo.dd71ffd4a2c6f11904cd.jpg",
+    "static/media/bert.jpg": "/home/static/media/bert.6f878a657cbc73fed7b0.jpg",
+    "static/media/hmm.png": "/home/static/media/hmm.a476c01bdae0af4cb877.png",
+    "static/media/age_gender.jpg": "/home/static/media/age_gender.ee4bf2dfe5df42725432.jpg",
+    "static/media/sentiment.png": "/home/static/media/sentiment.ac313ab9f696b55b43d6.png",
+    "static/media/full-nao1.png": "/home/static/media/full-nao1.9e8057bd06c3ba325026.png",
+    "static/media/sentiment1.jpeg": "/home/static/media/sentiment1.a89ffcd3149e98238d6b.jpeg",
+    "static/media/nmt.png": "/home/static/media/nmt.45af463a717739d8ffc5.png",
+    "index.html": "/home/index.html",
+    "main.d777e045.css.map": "/home/static/css/main.d777e045.css.map",
+    "main.d4f27401.js.map": "/home/static/js/main.d4f27401.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d777e045.css",
+    "static/js/main.d4f27401.js"
+  ]
+}
