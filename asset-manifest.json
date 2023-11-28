@@ -1,17 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.d069f686.css",
-    "main.js": "/static/js/main.9a6dc200.js",
+    "main.js": "/static/js/main.8db10d74.js",
     "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
     "static/media/thumbs-up.png": "/static/media/thumbs-up.af4e975c2aff0df5cc35.png",
     "static/media/cv.png": "/static/media/cv.35d99cc2d8492fcc30c2.png",
-    "static/media/violence.jpg": "/static/media/violence.b859054a0b3c9007634e.jpg",
     "static/media/USC.png": "/static/media/USC.e439e4ee5794eb29dcb7.png",
     "static/media/MITWPU.png": "/static/media/MITWPU.5440a42a3a54401bcc58.png",
     "static/media/my_img.jpg": "/static/media/my_img.e9f6e821467e52e2879d.jpg",
     "static/media/NER.jpg": "/static/media/NER.a029157a4fb446b4ef69.jpg",
     "static/media/seo.jpg": "/static/media/seo.dd71ffd4a2c6f11904cd.jpg",
-    "static/media/bert.jpg": "/static/media/bert.6f878a657cbc73fed7b0.jpg",
     "static/media/hmm.png": "/static/media/hmm.a476c01bdae0af4cb877.png",
     "static/media/age_gender.jpg": "/static/media/age_gender.ee4bf2dfe5df42725432.jpg",
     "static/media/sentiment.png": "/static/media/sentiment.ac313ab9f696b55b43d6.png",
@@ -20,11 +18,11 @@
     "static/media/nmt.png": "/static/media/nmt.45af463a717739d8ffc5.png",
     "index.html": "/index.html",
     "main.d069f686.css.map": "/static/css/main.d069f686.css.map",
-    "main.9a6dc200.js.map": "/static/js/main.9a6dc200.js.map",
+    "main.8db10d74.js.map": "/static/js/main.8db10d74.js.map",
     "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d069f686.css",
-    "static/js/main.9a6dc200.js"
+    "static/js/main.8db10d74.js"
   ]
 }
